@@ -1,10 +1,10 @@
 # ----------- CONFIGURABLE START -----------
-title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
-description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+title:            "how-to|简单记录|生活经验|"
+description:      "欢迎来到 how-to「角落」侃侃理想、谈谈人生、聊聊生活的经验。"
 url:               # 域名
-signoff:          "LiberXue" # Your name
+signoff:          "how-to" # Your name
 facebook_appid:   #liberxue
-google_analytics: UA-101222464-1
+#google_analytics: UA-101222464-1
 share:            true 
 # 分页
 paginate: 15
