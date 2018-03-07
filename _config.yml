@@ -6,6 +6,8 @@ signoff:          "how-to" # Your name
 facebook_appid:   #liberxue
 #google_analytics: UA-101222464-1
 share:            true 
+#百度站长推送
+baidu_push:          false
 # 分页
 paginate: 15
 paginate_path: "page:num"
